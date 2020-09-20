@@ -1,4 +1,4 @@
-package guru.springframework.microbeereurekaserver.config;
+package com.github.amag.microbeereurekaserver.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

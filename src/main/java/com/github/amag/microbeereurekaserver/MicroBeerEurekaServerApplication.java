@@ -1,4 +1,4 @@
-package guru.springframework.microbeereurekaserver;
+package com.github.amag.microbeereurekaserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
